@@ -1,0 +1,13 @@
+project_id = "uijqobrsuptqgzyydfti"
+
+[functions.generate-subtopics]
+verify_jwt = false
+
+[functions.analyze-research]
+verify_jwt = false
+
+[functions.generate-citations]
+verify_jwt = false
+
+[functions.synthesize-research]
+verify_jwt = false

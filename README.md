@@ -13,8 +13,12 @@ A web-based **AI-powered research tool** that helps users **plan, gather, and sy
 
 ## Images
 
-![Dashboard](ai-research-assistant/src/assets/dashboard.jpg)  
-![Report Example](ai-research-assistant/src/assets/report.jpg)
+![a1](a1.jpg) 
+![a1](a2.jpg)
+![a1](a3.jpg)
+![a1](a4.jpg)
+![a1](a5.jpg)
+
 
 ## How It Works
 

@@ -13,11 +13,11 @@ A web-based **AI-powered research tool** that helps users **plan, gather, and sy
 
 ## Images
 
-![a1](a1.jpg) 
-![a1](a2.jpg)
-![a1](a3.jpg)
-![a1](a4.jpg)
-![a1](a5.jpg)
+![a1](topic-unraveler-pro-main/a1.jpg) 
+![a1](topic-unraveler-pro-main/a2.jpg)
+![a1](topic-unraveler-pro-main/a3.jpg)
+![a1](topic-unraveler-pro-main/a4.jpg)
+![a1](topic-unraveler-pro-main/a5.jpg)
 
 
 ## How It Works

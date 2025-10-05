@@ -12,7 +12,8 @@ A web-based **AI-powered research tool** that helps users **plan, gather, and sy
 - **User-Friendly Interface**: Intuitive UI requiring no coding experience.
 
 ## Demo link
-https://topic-unraveler-pro.lovable.app
+
+https://ai-research-assistant-saas-56pz.vercel.app/
 
 ## Images
 
